@@ -64,3 +64,7 @@
 # claudit — Claude Code Usage Dashboard
 
 claudit presents quantitative usage and retrieved coding-session transcripts. Readers examine tokens, cache behavior, estimated cost, tools, timing, context and activity across the deployment corpus, then inspect a retrieved main transcript. Deployment operators reconcile externally supplied transcripts; web operators examine page-performance observations.
+
+## Intent
+
+Answer how much, how many and when for Claude Code, Codex and Kimi coding sessions, with accurate accounting over a durable transcript history that keeps growing after local sessions are pruned; interpreting the numbers stays with the reader.
